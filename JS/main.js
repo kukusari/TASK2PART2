@@ -40,7 +40,7 @@ window.addEventListener('load', function () {
         // The class in style.css for progress bar is '.progress-bar', not '.progress-fill'
         // You might need to adjust the selector here or in your HTML/CSS
         if (progressBar) { // Added a check to prevent error if progressBar is null
-             progressBar.style.width = progress + '%';
+            progressBar.style.width = progress + '%';
         }
 
 
@@ -122,7 +122,7 @@ filterButtons.forEach(button => {
 
                 // Update visible count (if visibleCount element exists)
                 if (visibleCount) {
-                     visibleCount.textContent = visibleProjects;
+                    visibleCount.textContent = visibleProjects;
                 }
             }, index * 50); // Stagger animation
         });
