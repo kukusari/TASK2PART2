@@ -41,4 +41,4 @@
 ### [เปิดหน้าเว็บ](https://glittery-entremet-50e1db.netlify.app/)
 
 #
-## [เอกสาร](https://docs.google.com/document/d/1hYre0H2HP14MMLvdJGrSVabYcQoCqot027pVOkrlygE/edit?usp=sharing)
+## [เอกสาร](https://docs.google.com/document/d/1CkBsPqXEGCGwgipGnpByEeNlSO5KxhsWF2_sGRFt8fw/edit?usp=sharing)
